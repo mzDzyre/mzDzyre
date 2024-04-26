@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Gaining Technical Skills**
 
-- 🌱 I’m currently learning **Mobile Frameworks like Flutter and Cordova**
+[comment]: #- 🌱 I’m currently learning **Mobile Frameworks like Flutter and Cordova**
 
 - 👯 I’m looking to collaborate on **Organizations to Implement Live project**
 
